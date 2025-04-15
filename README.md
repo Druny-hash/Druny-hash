@@ -19,7 +19,7 @@ Here are some of the technologies I work with:
 ### 🚀 About Me
 - 🌱 Currently learning: Advanced backend development and cloud technologies
 - 💬 Ask me about: Python, C#, web development, and open source
-- 📫 How to reach me: [Your email or social link here]
+- 📫 How to reach me: [hsr.eg.lams@gmail.com]
 - ⚡ Fun fact: I love automating everyday tasks and exploring new tech!
 
 
