@@ -14,6 +14,7 @@ Here are some of the technologies I work with:
 [![Git](https://img.icons8.com/color/48/git.png)](https://git-scm.com/)
 [![CSS3](https://img.icons8.com/color/48/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.icons8.com/color/48/python.png)](https://www.python.org/)
 
 ---
 
