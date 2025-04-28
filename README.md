@@ -35,7 +35,7 @@ Here are some of the technologies I work with:
   </a>
 
   <a href="https://instagram.com/lamaninson" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" title="Instagram" />
+    <img src="https://i.imgur.com/HsZcfvw.png" alt="Instagram" width="48" height="48" title="Instagram" />
   </a>
 </p>
 
