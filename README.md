@@ -1,6 +1,6 @@
 ### Hey there 👋 I’m Ninson 
 
-I’m an undergraduate Computer Systems Engineering student and full-stack developer with a growing focus on cybersecurity and ethical hacking. I love building projects that solve real problems and exploring how technology can make an impact.
+I’m an undergraduate Computer Systems Engineering and full-stack developer with a growing focus on cybersecurity and ethical hacking. I love building projects that solve real-world problems and exploring how technology can make an impact.
 
 🔧 Tech I work with:  
 - **Frontend**: React, Tailwind CSS, HTML/CSS, JavaScript  
@@ -18,10 +18,3 @@ I’m an undergraduate Computer Systems Engineering student and full-stack devel
   <a href="mailto:hsr.eg.lams@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" title="Email" />
   </a>
-
-  <a href="https://instagram.com/lamaninson" target="_blank">
-    <img src="https://i.imgur.com/HsZcfvw.png" alt="Instagram" width="48" height="48" title="Instagram" />
-  </a>
-</p>
-
-
