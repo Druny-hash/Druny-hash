@@ -4,7 +4,7 @@ I’m an undergraduate Computer Systems Engineering and full-stack developer wit
 
 🔧 Tech I work with:  
 - **Frontend**: React, Tailwind CSS, HTML/CSS, JavaScript  
-- **Backend**: Node.js, Express, MongoDB  
+- **Backend**: Node.js, Express.js, MongoDB  
 - **Learning**: Python, Offensive Security, Cybersecurity Tools & Techniques
 
 💻 I enjoy writing clean code, learning new stacks, and collaborating on exciting open-source or personal projects.  
